@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports, musics and all kind of other stuffs
 - 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me : twitter <- @bactnrh ; discord <- Nasti_eb#8983
+- 📫 How to reach me : twitter <- @bactnrh ; discord <- Bastien#8983
 
 <!---
 BastienChicot/BastienChicot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
